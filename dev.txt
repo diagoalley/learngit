@@ -1,2 +1,3 @@
 I am debugging !
 hello ! I am your friend.
+Friend add a word.
